@@ -7,3 +7,5 @@ url: "http://0.0.0.0:4000"
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
